@@ -65,6 +65,6 @@ We would like you to have well over 200 commits by graduation, so commit early a
 
 
 Deploy your application with Heroku and MongoDB Atlas.
-![snapshot](screenshot/budget.png)
+![snapshot](public/screenshot/budget.png)
 The deployed version of this app can be found at: https://budget-tracker-dlabins.herokuapp.com/
 The github repo for this app can be found at: https://github.com/Dlabins/Budget-tracker
